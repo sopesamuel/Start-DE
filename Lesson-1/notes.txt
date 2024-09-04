@@ -1,1 +1,5 @@
+To enable data analytics for a business as a new hire, and where to start for gathering requirements?
 
+- Starting by understanding the business goals, objectives,challenges and how data analytics could come in.
+- Find out the available data the business currently has available or is collecting, whether it's from internal systems, or customer interactions, or external sources
+- Outline a strategy for analysis and ensure it aligns with the company's objectives 
